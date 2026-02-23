@@ -15,11 +15,11 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"> <a href="https://github.com/https://github.com/ParveenKumar-max" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/www.linkedin.com/in/parveen-chaudhary-03242ab5" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">🚀Sr. Software Engineer | Test Automation & QA | Skilled in Py-Test Framework with Selenium, API Testing, Postman, JIRA, Jenkins, Git, Allure, Log4J & Robot Framework | Hands-on with Python for automation scripting.😀</h3>**
+ **<h3 align="left">🚀QA Automation Engineer with 9.5+ years of experience in web application testing, specializing in Python-based automation using Selenium WebDriver, PyTest, and Robot Framework..😀</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Tech Mahindra Ltd**
+- 💼 I'm currently working on: **💻 Sn. Test Engineer -- Tech Mahindra Ltd**
 - 🌱 I'm currently learning: **📚 Exploring TOSCA Automation, Playwright Automation Framework**
 - 💬 Ask me about: **💡 Robot Autotmation Framework, Pytest Framework, Python, Jenkins, JIRA, Python with Selenium**
 - ⚡ Fun fact: **🎢 The concept of "bug-free" software is a myth**
