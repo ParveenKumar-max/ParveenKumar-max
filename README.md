@@ -77,9 +77,17 @@ I specialize in designing scalable, maintainable **Python-based automation frame
 
 ## 📜 Certifications
 
-- ✔ Python Automation Certification  
-- ✔ Selenium WebDriver Training  
-- ✔ Agile Testing Fundamentals  
+🎓 Selenium WebDriver with Python & Framework Design – Udemy
+
+🎓 Robot Framework with Python & Selenium – Udemy
+
+🎓 TOSCA UI Test Automation – Udemy
+
+🎓 AQT Ninja Certified – Tech Mahindra
+
+🎓 SQL Certification – Udemy
+
+🎓 Generative AI Copilot Certification – Udemy
 
 ---
 
